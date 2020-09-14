@@ -23,7 +23,7 @@ subtitle = "Document _anything_ ✨"
 [[feature]]
   icon = "question"
   icon_pack = "fas"
-  name = "Knowledge Base"
+  name = "Knowledge Base 101"
   description = "For teams"  
   
 [[feature]]
