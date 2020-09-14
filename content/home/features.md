@@ -29,8 +29,8 @@ subtitle = "Document _anything_ ✨"
 [[feature]]
   icon = "list-alt"
   icon_pack = "fas"
-  name = "Personal Notebook"
-  description = "For yourself"
+  name = "Hints and tips"
+  description = "For everybody"
 
 # Uncomment to use emoji icons.
 # [[feature]]
