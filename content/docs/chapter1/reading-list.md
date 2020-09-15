@@ -10,12 +10,14 @@ weight: 2
 A recommended reading list for the methodology.
 
 ## Fourier Transform Infrared Spectroscopy
-1.one
-2.two
+
+ 1. one
+ 2. two
 
 
 ## Fourier Transform Infrared Microscopy
-1.one
-2.two
+
+ 1. one
+ 2. two
 
 ## Photothermal Effect
