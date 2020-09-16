@@ -2,7 +2,7 @@
 # Title, summary, and page position.
 linktitle: Introduction
 summary: Learn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials.
-weight: 1
+weight: 10
 icon: book
 icon_pack: fas
 
