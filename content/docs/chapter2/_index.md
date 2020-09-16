@@ -2,7 +2,7 @@
 # Title, summary, and page position.
 linktitle: 02 Chapter
 summary: Learn how to use ISMI beamline
-weight: 1
+weight: 20
 icon: book
 icon_pack: fas
 
