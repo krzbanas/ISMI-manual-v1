@@ -12,3 +12,4 @@ weight: 1
 Here is a table with the materials used for IR spectroscoscopy and microscopy:
 
  - KBr
+{{< figure src="images/IR_Window.png" title="A caption" numbered="true" >}}
