@@ -15,4 +15,4 @@ Here is a table with the materials used for IR spectroscoscopy and microscopy:
  
  
  
-{{< figure src="/images/IR_Window.png" title="A caption 1" numbered="true" >}}
+{{< figure src="IR_Window.png" title="A caption 2" numbered="true" >}}
