@@ -15,4 +15,4 @@ Here is a plot showing ranges and sensitivity of typical IR detectors:
  
  
  
-{{< figure src="IR_Detectors.png" title="IR Detectors" numbered="true" >}}
+{{< figure src="IR_Detectors.png" title="IR Detectors" numbered="false" >}}
