@@ -9,7 +9,7 @@ weight: 92
 ---
 
 
-Here is a table of classic IR sources:
+Here is a plot showing ranges and intensities of classic IR sources:
 
 
  
