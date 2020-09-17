@@ -48,7 +48,7 @@ hero_media = "book.svg"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
-  label = '<span class="js-github-release" data-repo="krzbanas/ISMI-manual-v1">Version:1.0.1 </span>'
+  label = '<span class="js-github-release" data-repo="krzbanas/ISMI-manual-v1">Version: 1.0.1 </span>'
 +++
 
 [Singapore Synchrotron Light Source](http://ssls.nus.edu.sg/).
