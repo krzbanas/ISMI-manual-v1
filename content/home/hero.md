@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Manual"
+title = "ISMI Beamline Manual"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 hero_media = "book.svg"
@@ -51,7 +51,6 @@ hero_media = "book.svg"
   label = '<span class="js-github-release" data-repo="krzbanas/ISMI-manual-v1">Version:<!-- V --></span>'
 +++
 
-For ISMI beamline
 [Singapore Synchrotron Light Source](http://ssls.nus.edu.sg/).
 
 
