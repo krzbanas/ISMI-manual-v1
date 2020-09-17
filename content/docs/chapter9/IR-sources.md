@@ -15,4 +15,4 @@ Here is a plot showing ranges and intensities of classic IR sources:
  
  
  
-{{< figure src="IR_Sources.png" title="IR Sources" numbered="true" >}}
+{{< figure src="IR_Sources.png" title="IR Sources" numbered="false" >}}
