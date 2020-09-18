@@ -9,7 +9,7 @@ weight: 40
 ---
 
 
-Here is a plot showing ranges and transmission of IR beamsplitters:
+Here is a plot showing ranges and efficiency of IR beamsplitters:
 
 
  
