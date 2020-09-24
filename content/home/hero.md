@@ -51,6 +51,7 @@ hero_media = "book.svg"
   label = '<span class="js-github-release" data-repo="krzbanas/ISMI-manual-v1">Version: 1.0.1 </span>'
 +++
 
+
 [Singapore Synchrotron Light Source](http://ssls.nus.edu.sg/).
 
 
