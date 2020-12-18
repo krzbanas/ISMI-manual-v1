@@ -16,5 +16,3 @@ type: book  # Do not modify.
 
 Content for microscopy
 
-
----
