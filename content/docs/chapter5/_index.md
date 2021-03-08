@@ -2,7 +2,7 @@
 # Title, summary, and page position.
 linktitle: AFM-IR
 summary: Learn how to use ISMI beamline
-weight: 30
+weight: 50
 icon: book
 icon_pack: fas
 
@@ -12,6 +12,6 @@ date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
 
-## FTIR Microscopy
+## AFM-IR
 
-Content for microscopy
+Content for AFM-IR
