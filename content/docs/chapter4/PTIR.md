@@ -1,6 +1,6 @@
 ---
 # Title, summary, and page position.
-linktitle: PTIR
+linktitle: o-PTIR
 summary: Learn how to use ISMI beamline
 weight: 40
 icon: book
@@ -12,6 +12,6 @@ date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
 
-## FTIR Microscopy
+## O-PTIR
 
-Content for microscopy
+Content for O-PTIR
