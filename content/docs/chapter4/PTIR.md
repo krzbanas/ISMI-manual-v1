@@ -2,7 +2,7 @@
 # Title, summary, and page position.
 linktitle: PTIR
 summary: Learn how to use ISMI beamline
-weight: 30
+weight: 40
 icon: book
 icon_pack: fas
 
