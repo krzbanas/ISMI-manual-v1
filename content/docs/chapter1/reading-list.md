@@ -22,7 +22,7 @@ A recommended reading list for the methodology.
 
 ## Photothermal Effect
 
- 1. one
+ 1. Photothermal Spectroscopy Methods Stephen E. Bialkowski Nelson G. C. Astrath Mikhail A. Proskurnin , Second Edition (2019) John Wiley & Sons, Inc.
  2. two
 
 ## Atomic Force Microscopy
