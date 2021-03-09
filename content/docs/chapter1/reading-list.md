@@ -11,8 +11,8 @@ A recommended reading list for the methodology.
 
 ## Fourier Transform Infrared Spectroscopy
 
- 1. one
- 2. two
+ 1. Fundamentals of Fourier Transform Infrared Spectroscopy Brian C. Smith  2nd Edition (2011) CRC Press 
+ 2. Infrared Spectroscopy: Fundamentals and Applications Barbara H. Stuart  (2004) Willey
 
 
 ## Fourier Transform Infrared Microscopy
