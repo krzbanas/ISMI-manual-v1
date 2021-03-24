@@ -17,7 +17,7 @@ subtitle = " "
 [[feature]]
   icon = "book-open"
   icon_pack = "fas"
-  name = "Project Documentation"
+  name = "Equipment Manuals"
   description = "For users"
   
 [[feature]]
