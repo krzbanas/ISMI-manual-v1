@@ -2,7 +2,7 @@
 # Title, summary, and page position.
 linktitle: o-PTIR
 summary: Learn how to use ISMI beamline
-weight: 40
+weight: 10
 icon: book
 icon_pack: fas
 
@@ -12,6 +12,6 @@ date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
 
-## O-PTIR
+## O-PTIR Introduction
 
 Content for O-PTIR
